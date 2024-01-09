@@ -1,6 +1,10 @@
 # coffe_shope
 
 A new Flutter project.
+![Welcome Page Coffee](https://github.com/fokrul511/Coffee-Shop-Basic-UI/blob/main/images/start%20page.png)
+![Home page Coffee](https://github.com/fokrul511/Coffee-Shop-Basic-UI/blob/main/images/home%20page.png)
+![Coffee Item Page](https://github.com/fokrul511/Coffee-Shop-Basic-UI/blob/main/images/item%20page.png)
+
 
 ## Getting Started
 
